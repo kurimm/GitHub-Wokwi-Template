@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-It blinks a segment 1 Hz when the dip switch's first switch is on.
+1 Hz segment blink when 1st dip switch is ON.
 
 ## How to test
 
-Turn the first dip switch on.
+Turn the 1st dip switch ON.
 
 ## External hardware
 
